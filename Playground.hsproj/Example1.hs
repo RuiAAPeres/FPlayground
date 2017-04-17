@@ -19,3 +19,6 @@ max1 :: Ord a => a -> a -> a
 max1 x y | x > y = x 
          | x == y = x
          | x < y = y 
+
+
+
