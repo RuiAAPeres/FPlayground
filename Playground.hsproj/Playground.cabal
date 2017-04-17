@@ -13,3 +13,4 @@ Executable Playground
       base -any
   other-modules:
       Example1
+      SnowFlakes
