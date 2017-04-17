@@ -1,0 +1,6 @@
+-- Haskell Playground 1.0
+inc1 1
+
+exclamation "Weee"
+
+(+) 1 2 
